@@ -35,7 +35,7 @@ There are five chips added to the left of the **Customization** button:
 
 ## Installation
 
-1. Remove any older "HD2 Enhanced Ammo" build and any scan/test mods.
+1. Remove any older "HD2 Enhanced Ammo" build.
 2. Install the Bingus Shared Loader.
 3. Install the mod zip from the Releases page with Arsenal / HD2MM.
 4. Launch the game and open the ship Armory.
