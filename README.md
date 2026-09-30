@@ -26,6 +26,11 @@ There's a drop-up menu button to the left of the **Customization** button:
 | HP | Hollow Point | Damage +25%, durable -20%, recoil +15% |
 | GAS | Gas | Slows and blinds targets, recoil +5%, ergonomics -10%, fire rate -10% |
 
+## ROADMAP
+
+- Add support for plasma projectile-based weapons
+- Add support for beam-based weapons
+
 ## Known issues
 
 - Gas effect strength is still being tuned.
