@@ -7,9 +7,9 @@ Adds four ammo type variants to the primary weapons. **Recommended to use in Pri
 
 There's a drop-up menu button to the left of the **Customization** button:
 
-`OFF` `FIRE` `EM` `AP` `SUB`
+`OFF` `FIRE` `EM` `AP` `SUB` `HP` `GAS` 
 
-- Click the drop-up menu to choose an ammo type. Click it again (or `OFF`) to clear it.
+- Click the drop-up menu button to choose an ammo type. Click it again (or `OFF`) to clear it.
 - Hover an ammo label to preview what it changes (green = better, red = worse).
 - Types the weapon cannot take are dimmed.
 - The choice is remembered per weapon and applied while that weapon is your equipped primary.
