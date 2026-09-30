@@ -23,10 +23,23 @@ There are five chips added to the left of the **Customization** button:
 | FIRE | Incendiary | Sets targets alight, fire rate -15%, ergonomics -5% |
 | EM | Electromagnetic | Staggers targets, recoil +10%, spray +5%, durable -5% |
 | SUB | Subsonic | Damage -15%, durable -5%, recoil -10%, spray -5%, suppressed and quieter (not on explosive or already suppressed weapons) |
+| HP | Hollow Point | Damage +25%, durable -20%, recoil +15% |
+| GAS | Gas | Slows and blinds targets, recoil +5%, ergonomics -10%, fire rate -10% |
+
+## Known issues
+
+- Gas effect strength is still being tuned.
+- Fire rate is not applied to 13 primaries yet.
 
 ## Not supported yet
 
 - Legendary warbond weapons and energy weapons (lasers, plasma, arc).
+
+## Info to know
+
+- **Shared bullets:** some weapons share one bullet with others (for example the Liberator family), so an ammo type can also change those weapons. The log notes it.
+- **Fire rate:** applied to 40 primaries. The rest get the other effects of the ammo type.
+- **Handling changes** (recoil, spray, ergonomics, suppression) work on most primaries. The SMG-37 Defender gets damage and status effects only.
 
 ## Requirements
 
