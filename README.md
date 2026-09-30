@@ -5,7 +5,7 @@ Adds four ammo type variants to the primary weapons. **Recommended to use in Pri
 
 ## How to use
 
-There are five chips added left to the **Customization** button:
+There are five chips added to the left of the **Customization** button:
 
 `OFF` `FIRE` `EM` `AP` `SUB`
 
