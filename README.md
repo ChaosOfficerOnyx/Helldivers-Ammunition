@@ -5,6 +5,8 @@ Adds four ammo type variants to the primary weapons. **Recommended to use in Pri
 
 ## How to use
 
+There are five chips added left to the **Customization** button:
+
 `OFF` `FIRE` `EM` `AP` `SUB`
 
 - Click a chip to give that weapon the ammo type. Click it again (or `OFF`) to clear it.
