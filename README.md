@@ -5,13 +5,13 @@ Adds four ammo type variants to the primary weapons. **Recommended to use in Pri
 
 ## How to use
 
-There are five chips added to the left of the **Customization** button:
+There's a drop-up menu button to the left of the **Customization** button:
 
 `OFF` `FIRE` `EM` `AP` `SUB`
 
-- Click a chip to give that weapon the ammo type. Click it again (or `OFF`) to clear it.
-- Hover a chip to preview what it changes (green = better, red = worse).
-- Chips the weapon cannot take are dimmed.
+- Click the drop-up menu to choose an ammo type. Click it again (or `OFF`) to clear it.
+- Hover an ammo label to preview what it changes (green = better, red = worse).
+- Types the weapon cannot take are dimmed.
 - The choice is remembered per weapon and applied while that weapon is your equipped primary.
 - The traits box shows an `AMMO: X` line.
 
