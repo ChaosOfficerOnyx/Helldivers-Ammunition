@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "Guid": "c1d2a7e4-58b3-4f0a-9b6e-2f7d3a8e1c90",
+  "Name": "Helldivers' Ammunition",
+  "Description": "Helldivers' Ammunition. Adds four ammo type variants to the primary weapons. Recommended to use in Private lobby.",
+  "Options": [
+    {
+      "Name": "Helldivers' Ammunition",
+      "Description": "Ammo picker and ammo effects.",
+      "Include": [
+        "Addon"
+      ]
+    }
+  ]
+}
