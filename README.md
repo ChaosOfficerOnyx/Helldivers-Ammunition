@@ -26,9 +26,7 @@ There are five chips added to the left of the **Customization** button:
 
 ## Not supported yet
 
-- Legendary warbond weapons and energy weapons (lasers, plasma, arc): no ammo chips.
-- 20 primaries share weapon data with other weapons (Stalwart, Liberator Penetrator, Liberator Concussive, One-Two, Arbitrator, Breaker Spray&Pray, SG-8F, Slugger, Halt, Diligence, Diligence Counter Sniper, Defender, Pummeler, VG-70, CB-9, Eruptor and others). They get damage, armor penetration and fire rate changes only: no recoil/spray/ergonomics changes and no Subsonic. Full support is planned.
-- Fire rate is applied to 40 primaries; the rest get the other FIRE effects only.
+- Legendary warbond weapons and energy weapons (lasers, plasma, arc).
 
 ## Requirements
 
