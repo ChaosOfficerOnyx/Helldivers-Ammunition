@@ -1,10 +1,7 @@
 # Helldivers' Ammunition
+**Version:** 0.8.0B (public beta)
 
 Adds four ammo type variants to the primary weapons. **Recommended to use in Private lobby.**
-
-> This mod changes weapon data on your own client only. Use it at your own risk.
-
-**Version:** 0.8.0B (public beta)
 
 ## How to use
 
