@@ -40,6 +40,10 @@ There's a drop-up menu button to the left of the **Customization** button:
 
 - Legendary warbond weapons and energy weapons (lasers, plasma, arc).
 
+## Known issues
+
+- Gas ammo is still being tuned
+
 ## Info to know
 
 - **Shared bullets:** some weapons share one bullet with others (for example the Liberator family), so an ammo type can also change those weapons. The log notes it.
