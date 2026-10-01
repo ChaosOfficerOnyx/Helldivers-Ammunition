@@ -32,7 +32,6 @@ There's a drop-up menu button to the left of the **Customization** button:
 
 ## ROADMAP
 
-- Add support for pre-mission loadout
 - Add support for plasma projectile-based weapons
 - Add support for beam-based weapons
 
