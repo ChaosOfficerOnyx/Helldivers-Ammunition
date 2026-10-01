@@ -51,7 +51,7 @@ There's a drop-up menu button to the left of the **Customization** button:
 
 ## Installation
 
-1. Remove any older "HD2 Enhanced Ammo" build.
+1. Remove any older "Helldivers' Ammunition" build.
 2. Install the Bingus Shared Loader.
 3. Install the mod zip from the Releases page with Arsenal / HD2MM.
 4. Launch the game and open the ship Armory.
