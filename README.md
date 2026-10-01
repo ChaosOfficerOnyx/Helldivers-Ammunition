@@ -19,7 +19,7 @@ There's a drop-up menu button to the left of the **Customization** button:
 
 | Ammo | Type | Effect |
 |------|------|--------|
-| AP | Armor Penetrating | Damage -10%, durable +25%, recoil +5%, projectile speed +25%, armor penetration +1 level (max AP3; not on Medium/Heavy weapons) |
+| AP | Armor Penetrating | Damage -10%, durable +25%, recoil +5%, projectile speed +25%, armor penetration +1 level (max AP3; not on Medium weapons) |
 | FIRE | Incendiary | Sets targets alight, fire rate -15%, ergonomics -5% |
 | EM | Electromagnetic | Staggers targets, recoil +10%, spray +5%, durable -5% |
 | SUB | Subsonic | Damage -15%, durable -5%, recoil -10%, spray -5%, projectile speed -25%, suppressed and quieter (not on explosive or already suppressed weapons) |
