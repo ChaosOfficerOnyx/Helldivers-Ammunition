@@ -63,7 +63,7 @@ There's a drop-up menu button to the left of the **Customization** button:
 ## Files
 
 - Choices: `%LOCALAPPDATA%\CowboyBingus\Helldivers2\EnhancedAmmoVariants.txt`
-  - `variant=assault_rifle:ap` (one per weapon; effects: `fire`, `stun`, `ap`, `subsonic`, `gas`, `magnum`, `overpressure`, `uranium`, `magnetizeed`)
+  - `variant=assault_rifle:ap` (one per weapon; effects: `fire`, `stun`, `ap`, `subsonic`, `gas`, `magnum`, `overpressure`, `uranium`, `magnetized`)
   - `auto=1` (1 = apply the choice of the equipped primary)
 - Logs: `%LOCALAPPDATA%\CowboyBingus\Helldivers2\Logs\EnhancedAmmoEngine.log` and `EnhancedAmmoUi.log`
 
