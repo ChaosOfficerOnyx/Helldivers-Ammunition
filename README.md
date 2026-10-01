@@ -28,7 +28,7 @@ There's a drop-up menu button to the left of the **Customization** button:
 | MAGNUM | Magnum | Damage +20%, recoil +25%, ergonomics -5%, fire rate -10% |
 | OVERPRESSURE | Overpressure (+P) | Damage +10%, durable -10%, recoil +15%, projectile speed +15% |
 | URANIUM TIP | Uranium Tip | Armor penetration +1 level (max AP4; not on Heavy weapons), projectile speed +50%, durable +10%, fire rate -45% |
-| MAGNETIZED | Magnetized | Spray -55%, durable +35%, fire rate -25% |
+| MAGNETIZED | Magnetized | Spread -55%, durable +35%, fire rate -25% |
 
 ## ROADMAP
 
