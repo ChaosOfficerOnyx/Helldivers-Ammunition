@@ -50,7 +50,7 @@ There's a drop-up menu button to the left of the **Customization** button:
 
 ## Requirements
 
-- [Arsenal / HD2MM] (https://www.nexusmods.com/helldivers2/mods/4664)
+- [Arsenal] (https://www.nexusmods.com/helldivers2/mods/4664)
 - [Bingus Shared Loader] (https://www.nexusmods.com/helldivers2/mods/16292)
 
 ## Installation
