@@ -41,7 +41,7 @@ There's a drop-up menu button to the left of the **Customization** button:
 
 ## Known issues
 
-- Gas ammo is still being tuned
+- Stalwart inherits Liberator family effects.
 
 ## Info to know
 
