@@ -28,6 +28,14 @@ There's a drop-up menu button to the left of the **Customization** button:
 | URANIUM TIP | Uranium Tip | Armor penetration +1 level (max AP4; not on Heavy weapons), projectile speed +50%, durable +10%, fire rate -45% |
 | MAGNETIZED | Magnetized | Spread -55%, durable +35%, fire rate -25% |
 
+| Ammo | Type | Effect for Plasma / Effect for Lasers |
+|------|------|--------|
+| NUCLEAR PLASMA | Nuclear Plasma | Damage +25%, recoil +15%, fire rate -15% / Damage +25%, heat gain +20% |
+| COLD PLASMA | Cold Plasma | Damage -15%, recoil -10%, spread -10%, fire rate +10% / Damage -15%, heat gain -30%, cooling +15% |
+| PULSED PLASMA | Pulsed Plasma | Fire rate +20%, recoil +10%, ergonomics -15% / — |
+| TRITIUM PLASMA | Tritium Plasma | Armor penetration +1 level (max AP4), durable +20%, fire rate -40% / Armor penetration +1 level (max AP4), durable +20%, heat gain +25% |
+| CONFINED PLASMA | Confined Plasma | Spread -45%, durable +35%, fire rate -25% / Durable +35%, heat gain +15% |
+
 ## ROADMAP
 
 - Add support for plasma projectile-based weapons
