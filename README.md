@@ -38,8 +38,7 @@ There's a drop-up menu button to the left of the **Customization** button:
 
 ## ROADMAP
 
-- Add support for plasma projectile-based weapons
-- Add support for beam-based weapons
+- Add support for Secondaries
 
 ## Not supported yet
 
