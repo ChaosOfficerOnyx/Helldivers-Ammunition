@@ -7,8 +7,6 @@ Adds ten ammo type variants to the primary weapons. **Recommended to use in Priv
 
 There's a drop-up menu button to the left of the **Customization** button:
 
-`OFF` `FIRE` `EM` `AP` `SUB` `HP` `GAS` `MAGNUM` `OVERPRESSURE` `URANIUM TIP` `MAGNETIZED`
-
 - Click the drop-up menu button to choose an ammo type. Click the active one again (or `OFF`) to clear it.
 - Hover an ammo label to preview what it changes (green = better, red = worse).
 - Types the weapon cannot take are dimmed.
