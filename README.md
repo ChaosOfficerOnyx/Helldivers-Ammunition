@@ -24,7 +24,7 @@ There's a drop-up menu button to the left of the **Customization** button:
 | EM | Electromagnetic | Staggers targets, recoil +10%, spray +5%, durable -5% |
 | SUB | Subsonic | Damage -15%, durable -5%, recoil -10%, spray -5%, projectile speed -25%, suppressed and quieter (not on explosive or already suppressed weapons) |
 | HP | Hollow Point | Damage +25%, durable -20%, recoil +15% |
-| GAS | Gas | Slows and blinds targets, recoil +5%, ergonomics -10%, fire rate -10% |
+| GAS | Gas | Slows and blinds targets, damage -15%, ergonomics -15%, fire rate -20% |
 | MAGNUM | Magnum | Damage +20%, recoil +25%, ergonomics -5%, fire rate -10% |
 | OVERPRESSURE | Overpressure (+P) | Damage +10%, durable -10%, fire rate +10%, recoil +15%, ergonomics +5%, projectile speed +20% |
 | URANIUM TIP | Uranium Tip | Armor penetration +1 level (max AP4; not on Heavy weapons), projectile speed +50%, durable +10%, fire rate -45% |
