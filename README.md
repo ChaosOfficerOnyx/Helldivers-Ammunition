@@ -19,12 +19,12 @@ There's a drop-up menu button to the left of the **Customization** button:
 |------|------|--------|
 | AP | Armor Penetrating | Damage -10%, durable +25%, recoil +5%, projectile speed +25%, armor penetration +1 level (max AP3; not on Medium weapons) |
 | FIRE | Incendiary | Sets targets alight, fire rate -15%, ergonomics -5% |
-| EM | Electromagnetic | Staggers targets, recoil +10%, spray +5%, durable -5% |
-| SUB | Subsonic | Damage -15%, durable -5%, recoil -10%, spray -5%, projectile speed -25%, suppressed and quieter (not on explosive or already suppressed weapons) |
+| EM | Electromagnetic | Staggers targets, recoil +10%, spread +5%, durable -5% |
+| SUB | Subsonic | Damage -15%, durable -5%, recoil -10%, spread -5%, projectile speed -25%, suppressed and quieter (not on explosive or already suppressed weapons) |
 | HP | Hollow Point | Damage +25%, durable -20%, recoil +15% |
 | GAS | Gas | Slows and blinds targets, damage -15%, ergonomics -15%, fire rate -20% |
 | MAGNUM | Magnum | Damage +20%, recoil +25%, ergonomics -5%, fire rate -10% |
-| OVERPRESSURE | Overpressure (+P) | Damage +10%, durable -10%, fire rate +10%, recoil +15%, ergonomics +5%, projectile speed +20% |
+| OVERPRESSURE | Overpressure (+P) | Durable -10%, fire rate +10%, recoil +15%, ergonomics -5%, projectile speed +20% |
 | URANIUM TIP | Uranium Tip | Armor penetration +1 level (max AP4; not on Heavy weapons), projectile speed +50%, durable +10%, fire rate -45% |
 | MAGNETIZED | Magnetized | Spread -55%, durable +35%, fire rate -25% |
 
@@ -39,14 +39,17 @@ There's a drop-up menu button to the left of the **Customization** button:
 ## ROADMAP
 
 - Add support for Secondaries
+- Add support for ARC-12 Blitzer
+- Vehicle Expansion (submod)
 
 ## Not supported yet
 
-- Legendary warbond weapons and energy weapons (lasers, plasma, arc).
+- Legendary warbond weapons and one energy weapon (arc).
 
 ## Known issues
 
 - Stalwart inherits Liberator family effects.
+- Sai ammo does not change the fire rate when the Focus Lens is fitted.
 
 ## Info to know
 
@@ -54,8 +57,8 @@ There's a drop-up menu button to the left of the **Customization** button:
 
 ## Requirements
 
-- [Arsenal] (https://www.nexusmods.com/helldivers2/mods/4664)
-- [Bingus Shared Loader] (https://www.nexusmods.com/helldivers2/mods/16292)
+- [Arsenal](https://www.nexusmods.com/helldivers2/mods/4664)
+- [Bingus Shared Loader](https://www.nexusmods.com/helldivers2/mods/16292)
 
 ## Installation
 
@@ -76,4 +79,7 @@ Open an issue and attach the two log files, plus the weapon and ammo type you us
 
 ## Credits
 
-Arsenal, HD2MM, Bingus Shared Loader, and the Armor Transmog approach. Can't express enought thanks to all of them.
+Arsenal, SHODAN Stat Editor (research references), HD2Runtime (research references), Bingus Shared Loader, and the Armor Transmog (research references). Can't express enough thanks to all of them.
+
+## License
+MIT
