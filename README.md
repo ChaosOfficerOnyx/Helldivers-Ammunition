@@ -1,5 +1,5 @@
 # Helldivers' Ammunition
-**Version:** 1.5.2B (public beta)
+**Version:** 1.5.1B (public beta)
 
 Adds fifteen ammo type variants to the primary weapons. **Recommended to use in Private lobby.**
 
