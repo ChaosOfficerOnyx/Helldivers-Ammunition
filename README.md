@@ -32,9 +32,7 @@ There's a drop-up menu button to the left of the **Customization** button:
 
 Explosive weapons (R-36 Eruptor, CB-9 Exploding Crossbow, GL-15 Evictor): Incendiary, Electromagnetic and Gas put their status effect on the explosion, not on the direct hit.
 
-### Energy ammo (experimental)
-
-PLAS-1 Scorcher, PLAS-101 Purifier, LAS-16 Sickle, LAS-17 Double-Edge Sickle, LAS-12 Sai, the beam weapons LAS-5 Scythe and LAS-13 Trident, SG-8P Punisher Plasma and ARC-12 Blitzer list their own five types instead of the ones above. On the secondaries, LAS-58 Talon, LAS-7 Dagger and PLAS-15 Loyalist do the same.
+### Energy ammo (limits present)
 
 | Ammo | Type | Effect for Plasma / Effect for Lasers |
 |------|------|--------|
