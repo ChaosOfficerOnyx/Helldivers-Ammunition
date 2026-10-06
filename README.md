@@ -66,7 +66,7 @@ Sway instead of fire rate (Purifier, Punisher Plasma, Loyalist), sway / scope sw
 - **Standard ammo types:** P-2 Peacemaker, P-19 Redeemer, P-69 Veto, P-4 Senator, P-113 Verdict, P-92 Warrant and SG-22 Bushwhacker.
 - **Energy ammo types:** LAS-58 Talon, LAS-7 Dagger (pays in heat) and PLAS-15 Loyalist.
 - **Explosive launchers:** GP-31 Grenade Pistol and P-33 Missile Pistol. Incendiary, EM and Gas halve the direct hit (damage and durable damage -50%) and replace the explosion with a stock grenade explosion (G-13 incendiary, G-23 stun, G-4 gas), with that grenade's own size, damage and effect.
-- **GP-20 Ultimatum:** the same, but with orbital explosions: Incendiary = Orbital Napalm Barrage, EM = Orbital EMS Strike, Gas = Orbital Gas Strike (their blast size, damage and lingering effect).
+- **GP-20 Ultimatum:** the same, but with orbital explosions.
 
 ## ROADMAP
 
