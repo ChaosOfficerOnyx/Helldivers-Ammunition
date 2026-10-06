@@ -7,7 +7,7 @@ Adds fifteen ammo type variants to the primary weapons and the secondaries. **Re
 
 ## How to use
 
-There's a drop-up menu button to the left of the **Customization** button (Armory > Weaponry > Primary or Secondary):
+There's a drop-up menu button to the left of the **Customization** button:
 
 - Click the drop-up menu button to choose an ammo type. Click the active one again (or `OFF`) to clear it.
 - Hover an ammo label to preview what it changes (green = better, red = worse).
