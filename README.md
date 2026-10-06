@@ -1,6 +1,6 @@
 <img width="3308" height="1755" alt="HELLDIVERS AMMUNITION LOGO" src="https://github.com/user-attachments/assets/e0a73b66-cec7-4ab4-bac7-8627316319ab" />
 
-**Version:** 2.0.0
+**Version:** 2.0.1
 
 Adds fifteen ammo type variants to the primary weapons and the secondaries. **Recommended to use in Private lobby.**
 
