@@ -102,7 +102,8 @@ Sway instead of fire rate (Purifier, Punisher Plasma, Loyalist), sway / scope sw
 1. Remove any older "Helldivers' Ammunition" build.
 2. Install the Bingus Shared Loader.
 3. Install the mod zip (and VFX Support) from the Releases page with Arsenal.
-4. Launch the game and open the ship Arsenal.
+4. Make sure Ammunition Mod is above VFX Mod. 
+5. Launch the game and open the ship Arsenal.
 
 ## Files
 
