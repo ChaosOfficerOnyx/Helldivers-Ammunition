@@ -120,5 +120,7 @@ Open an issue and attach the log files, plus the weapon and ammo type you used. 
 
 Arsenal, SHODAN Stat Editor (research references), HD2Runtime (research references), Bingus Shared Loader, and the Armor Transmog (research references). Can't express enough thanks to all of them.
 
+Research and development - Claude Sonnet 5.5
+
 ## License
 MIT
