@@ -68,7 +68,7 @@ Sway instead of fire rate (Purifier, Punisher Plasma, Loyalist), sway / scope sw
 
 ## ROADMAP
 
-- Legendary warbonds Support (almost ready).
+- Legendary warbonds Support.
 - More ammunition types.
 - More secondaries (Breacher, Crisper, Re-Educator) if their data becomes reachable.
 - Vehicle expansion: **Helldivers' Ammunition: Beasts of Steel** (standalone).
