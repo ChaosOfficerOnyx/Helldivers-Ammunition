@@ -1,6 +1,8 @@
+## ARCHIVED
+
 <img width="3308" height="1755" alt="HELLDIVERS AMMUNITION LOGO" src="https://github.com/user-attachments/assets/e0a73b66-cec7-4ab4-bac7-8627316319ab" />
 
-**Version:** 2.0.1
+**Version:** 2.1.0
 
 Adds fifteen ammo type variants to the primary weapons and the secondaries. **Recommended to use in Private lobby.**
 
@@ -68,7 +70,6 @@ Sway instead of fire rate (Purifier, Punisher Plasma, Loyalist), sway / scope sw
 
 ## ROADMAP
 
-- Legendary warbonds Support.
 - More ammunition types.
 - More secondaries (Breacher, Crisper, Re-Educator) if their data becomes reachable.
 - Vehicle expansion: **Helldivers' Ammunition: Beasts of Steel** (standalone).
