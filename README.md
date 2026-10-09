@@ -1,5 +1,7 @@
 ## ARCHIVED
 
+Mod lives here now: [AyakaMods](https://ayakamods.com/mods/helldivers-ammunition.4756/)
+
 <img width="3308" height="1755" alt="HELLDIVERS AMMUNITION LOGO" src="https://github.com/user-attachments/assets/e0a73b66-cec7-4ab4-bac7-8627316319ab" />
 
 **Version:** 2.1.0
