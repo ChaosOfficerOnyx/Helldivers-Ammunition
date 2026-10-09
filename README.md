@@ -1,4 +1,5 @@
 ## ARCHIVED
+### ONLY NEW RELEASES ARE UPLOADED
 
 Mod lives here now: [AyakaMods](https://ayakamods.com/mods/helldivers-ammunition.4756/)
 
